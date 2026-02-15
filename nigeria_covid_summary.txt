@@ -1,0 +1,91 @@
+
+Nigeria COVID-19 Data Analysis Summary
+
+- Total Regions: 38
+- Total Days: 707
+- Peak daily cases by region:
+                   REGION  Peak_Daily
+                     Abia       103.0
+                  Adamawa       180.0
+                Akwa Ibom       142.0
+                  Anambra       344.0
+                   Bauchi        65.0
+                  Bayelsa        54.0
+                    Benue       202.0
+                    Borno       166.0
+              Cross River        72.0
+                    Delta       508.0
+                   Ebonyi       108.0
+                      Edo       155.0
+                    Ekiti        38.0
+                    Enugu        78.0
+Federal Capital Territory       734.0
+                    Gombe       109.0
+                      Imo       110.0
+                   Jigawa        44.0
+                   Kaduna       417.0
+                     Kano       103.0
+                  Katsina        53.0
+                    Kebbi        45.0
+                     Kogi         2.0
+                    Kwara       155.0
+                    Lagos      1841.0
+                 Nasarawa        92.0
+                    Niger        69.0
+             Non spécifié         0.0
+                     Ogun       100.0
+                     Ondo       180.0
+                     Osun       120.0
+                      Oyo       234.0
+                  Plateau       199.0
+                   Rivers       395.0
+                   Sokoto        42.0
+                   Taraba       109.0
+                     Yobe        24.0
+                  Zamfara        45.0
+
+- Peak weekly cases by region:
+                   REGION  Peak_Weekly
+                     Abia        118.0
+                  Adamawa        180.0
+                Akwa Ibom        272.0
+                  Anambra        378.0
+                   Bauchi        108.0
+                  Bayelsa         81.0
+                    Benue        202.0
+                    Borno        176.0
+              Cross River         72.0
+                    Delta        519.0
+                   Ebonyi        148.0
+                      Edo        272.0
+                    Ekiti         69.0
+                    Enugu        153.0
+Federal Capital Territory        879.0
+                    Gombe        139.0
+                      Imo        132.0
+                   Jigawa         79.0
+                   Kaduna        481.0
+                     Kano        181.0
+                  Katsina        107.0
+                    Kebbi         45.0
+                     Kogi          2.0
+                    Kwara        285.0
+                    Lagos       2703.0
+                 Nasarawa        138.0
+                    Niger         84.0
+             Non spécifié          0.0
+                     Ogun        146.0
+                     Ondo        218.0
+                     Osun        143.0
+                      Oyo        354.0
+                  Plateau        282.0
+                   Rivers        498.0
+                   Sokoto        112.0
+                   Taraba        111.0
+                     Yobe         37.0
+                  Zamfara         45.0
+
+- Daily rolling averages computed (7-day)
+- Weekly rolling averages computed (4-week)
+- Approximate reproduction numbers (Rt) calculated per region
+- Datasets and plots saved in CSV and 'plots/' folder.
